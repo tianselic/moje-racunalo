@@ -1,5 +1,5 @@
 # racunalo.py - Osnovno računalo
-
+# Avtor: Tian
 def sestevanje(a, b):
     return a + b
 
