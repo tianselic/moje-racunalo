@@ -1,0 +1,5 @@
+# Vsebina datoteke .gitignore
+__pycache__/
+*.pyc
+*.log
+.env
