@@ -18,6 +18,8 @@ def deljenje(a, b):
 def potenciranje(a, b):
     return a ** b
 
+# modulo
+
 if __name__ == "__main__":
     print("Računalo Pro v2.0")
     print("5 + 3 =", sestevanje(5, 3))
